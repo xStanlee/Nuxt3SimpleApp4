@@ -1,0 +1,4 @@
+// makeshift inApp memory database
+export const db = {
+    todos: [],
+}
